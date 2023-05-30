@@ -1,8 +1,6 @@
 # AlgorithmCourse
 Digital Hanaro Algorithm Course
 
-Digital Hanaro Algorithm Course
-
 An algorithm is a set of well-defined instructions or rules designed to solve a specific problem or perform a specific task. It is a step-by-step procedure that outlines the sequence of operations required to achieve a desired outcome. Algorithms can be implemented in various forms, including computer programs, mathematical equations, flowcharts, or even written instructions.
 
 Here are some key characteristics and components of algorithms:
